@@ -1,0 +1,60 @@
+import CreditCard from 'components/CreditCard';
+import { useNavigate } from 'react-router-dom';
+import { useCreditCardList } from 'hooks/useCreditCardList';
+import LoadingSpinner from 'components/LoadingSpinner';
+import { useEffect } from 'react';
+import * as S from './style';
+
+function Home() {
+  const navigate = useNavigate();
+  const {
+    isLoading, loadCardList, creditCardList, initCreditCardList
+  } = useCreditCardList();
+
+  useEffect(() => {
+    loadCardList();
+  }, []);
+
+  return (
+    <S.HomeLayout>
+      <S.HomeHeader>
+        <S.HomeTitle>보유카드</S.HomeTitle>
+        <S.InitButton onClick={initCreditCardList}>🗑</S.InitButton>
+      </S.HomeHeader>
+      <S.CreditCardList>
+        {isLoading ? (
+          <LoadingSpinner />
+        ) : (
+          creditCardList.map((creditCard) => (
+            <div key={creditCard.number}>
+              <CreditCard
+                fullFilled
+                creditCard={{
+                  companyId: creditCard.companyId,
+                  number: creditCard.number,
+                  expiry: creditCard.expiry,
+                  owner: creditCard.owner,
+                }}
+              />
+              <S.CreditCardNickname>{creditCard.nickname}</S.CreditCardNickname>
+            </div>
+          ))
+        )}
+      </S.CreditCardList>
+      <S.RegisterCreditCardContainer>
+        {!creditCardList.length && (
+          <S.RegisterCreditCardText>
+            새로운 카드를 등록해주세요.
+          </S.RegisterCreditCardText>
+        )}
+        <S.RegisterCreditCardButton
+          type="button"
+          onClick={() => navigate('/register')}
+        >
+          +
+        </S.RegisterCreditCardButton>
+      </S.RegisterCreditCardContainer>
+    </S.HomeLayout>
+  );
+}
+export default Home;
