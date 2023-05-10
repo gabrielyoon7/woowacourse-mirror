@@ -5,8 +5,10 @@
 
 ### 미러링 방식
 
+이름이 겹칠만한 파일이나 폴더를 생성하지 않고, 프로젝트 수신 이후에 옮겨 줄 백업용 폴더만을 생성한다.
+
 ```
-git remote add <REPO_NAME> https://github.com/gabrielyoon7/레포이름.git
+git remote add <REPO_NAME> https://github.com/<USER_NAME>/<REPO_NAME>.git
 ```
 
 ```
@@ -17,6 +19,6 @@ git fetch <REPO_NAME> <BRANCH_NAME>
 git merge <REPO_NAME>/<BRANCH_NAME> --allow-unrelated-histories
 ```
 
-이후 폴더 및 파일들 원하는 위치에 옮겨주기 (정리)
+파일 수신 이후 폴더 및 파일들 원하는 위치(백업용 폴더)에 옮겨주기 (정리)
 
-다시 커밋 및 푸쉬
+전체 커밋 및 푸쉬
