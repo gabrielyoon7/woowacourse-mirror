@@ -6,15 +6,15 @@
 ### 미러링 방식
 
 ```
-git remote add 레포이름 https://github.com/gabrielyoon7/레포이름.git
+git remote add <REPO_NAME> https://github.com/gabrielyoon7/레포이름.git
 ```
 
 ```
-git fetch 레포이름 step2
+git fetch <REPO_NAME> <BRANCH_NAME>
 ```
 
 ```
-git merge 레포이름/step2 --allow-unrelated-histories
+git merge <REPO_NAME>/<BRANCH_NAME> --allow-unrelated-histories
 ```
 
 이후 폴더 및 파일들 원하는 위치에 옮겨주기 (정리)
