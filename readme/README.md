@@ -8,7 +8,19 @@
 | 1 | 온보딩 | '22.10.26 ~ '22.11.01 | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/precourse/javascript-onboarding) | [PR](https://github.com/woowacourse-precourse/javascript-onboarding/pull/150) |
 | 2 | 숫자 야구 | '22.11.02 ~ '22.11.08 | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/precourse/javascript-basball) | [PR](https://github.com/woowacourse-precourse/javascript-baseball/pull/6) |
 | 3 | 로또 | '22.11.09 ~ '22.11.15 | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/precourse/javascript-lotto-precourse) | [PR](https://github.com/woowacourse-precourse/javascript-lotto/pull/27) |
+| 4 | 다리 건너기 | '22.11.16 ~ '22.11.22 | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/precourse/javascript-bridge) | [PR](https://github.com/woowacourse-precourse/javascript-bridge/pull/124) |
 
+- [[회고] 우아한테크코스 5기 프리코스 (FE)](https://leirbag.tistory.com/125)
+- [우아한테크코스 5기 프리코스 (FE) 1차 합격!](https://leirbag.tistory.com/126)
+
+## 프리코스(최종)
+|   | 미션명 | 기간 | 저장소 | PR |
+|---|---|---|---|---|
+| 1 | 점심 메뉴 추천 | '22.12.17 | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/precourse/javascript-menu) | [PR](https://github.com/woowacourse-precourse/javascript-menu/pull/101) |
+
+- [우아한테크코스 5기 (FE) 최종 코딩테스트 후기](https://leirbag.tistory.com/127)
+
+---
 
 ## 레벨 1
 |   |   |   |   |   |   |   |
