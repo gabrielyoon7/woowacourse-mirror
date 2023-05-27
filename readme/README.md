@@ -23,14 +23,20 @@
 ---
 
 ## 레벨 1
-|   |   |   |   |   |   |   |
+|   | 미션명 | 기간 | 페어 | 저장소 | PR(Step1) | PR(Step2) |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+| 1 | 자동차 경주 게임 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-racingcar) | []() | []()  |
+| 2 | 로또 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lotto) | []() | []()  |
+| 3 | 점심뭐먹지 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lunch) | []() | []()  |
+| 4 | 영화리뷰 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-movie-review) | []() | []()  |
 
 ## 레벨 2
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
+|   | 미션명 | 기간 | 페어 | 저장소 | PR(Step1) | PR(Step2) | PR(Step3) |
+|---|---|---|---|---|---|---|---|
+| 1 | 다시,점심뭐먹지 | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
+| 2 | 페이먼츠 | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
+| 3 | 장바구니 | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
+| 4 | 장바구니(협업) | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
 
 ---
 
