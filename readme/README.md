@@ -25,8 +25,8 @@
 ## 레벨 1
 |   | 미션명 | 기간 | 페어 | 저장소 | PR(Step1) | PR(Step2) |
 |---|---|---|---|---|---|---|
-| 1 | 자동차 경주 게임 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-racingcar) | []() | []()  |
-| 2 | 로또 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lotto) | []() | []()  |
+| 1 | 자동차 경주 게임 | '23.02.07 ~ '23.02.13 | [윤생(이윤성)](https://github.com/2yunseong) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-racingcar) | [PR(STEP1)](https://github.com/woowacourse/javascript-racingcar/pull/153) | [PR(STEP2)](https://github.com/woowacourse/javascript-racingcar/pull/208)  |
+| 2 | 로또 | '23.02.14 ~ '23.02.27 | [도담(김민재)](https://github.com/D0Dam) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lotto) | [PR(STEP1)](https://github.com/woowacourse/javascript-lotto/pull/176) | [PR(STEP2)](https://github.com/woowacourse/javascript-lotto/pull/252)  |
 | 3 | 점심뭐먹지 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lunch) | []() | []()  |
 | 4 | 영화리뷰 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-movie-review) | []() | []()  |
 
