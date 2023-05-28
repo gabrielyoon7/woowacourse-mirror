@@ -27,8 +27,8 @@
 |---|---|---|---|---|---|---|
 | 1 | 자동차 경주 게임 | '23.02.07 ~ '23.02.13 | [윤생(이윤성)](https://github.com/2yunseong) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-racingcar) | [PR(STEP1)](https://github.com/woowacourse/javascript-racingcar/pull/153) | [PR(STEP2)](https://github.com/woowacourse/javascript-racingcar/pull/208)  |
 | 2 | 로또 | '23.02.14 ~ '23.02.27 | [도담(김민재)](https://github.com/D0Dam) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lotto) | [PR(STEP1)](https://github.com/woowacourse/javascript-lotto/pull/176) | [PR(STEP2)](https://github.com/woowacourse/javascript-lotto/pull/252)  |
-| 3 | 점심뭐먹지 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lunch) | []() | []()  |
-| 4 | 영화리뷰 | '23.00.00 ~ '23.00.00 | @ | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-movie-review) | []() | []()  |
+| 3 | 점심뭐먹지 | '23.02.28 ~ '23.03.13 | [라잇(강영민)](https://github.com/kangyeongmin) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lunch) | [PR(STEP1)](https://github.com/woowacourse/javascript-lunch/pull/19) | [PR(STEP2)](https://github.com/woowacourse/javascript-lunch/pull/58)  |
+| 4 | 영화리뷰 | '23.03.14 ~ '23.03.27 | [야미(이다인)](https://github.com/feb-dain) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-movie-review) | [PR(STEP1)](https://github.com/woowacourse/javascript-movie-review/pull/14) | [PR(STEP2)](https://github.com/woowacourse/javascript-movie-review/pull/81)  |
 
 ## 레벨 2
 |   | 미션명 | 기간 | 페어 | 저장소 | PR(Step1) | PR(Step2) | PR(Step3) |
