@@ -30,13 +30,16 @@
 | 3 | 점심뭐먹지 | '23.02.28 ~ '23.03.13 | [라잇(강영민)](https://github.com/kangyeongmin) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-lunch) | [PR(STEP1)](https://github.com/woowacourse/javascript-lunch/pull/19) | [PR(STEP2)](https://github.com/woowacourse/javascript-lunch/pull/58)  |
 | 4 | 영화리뷰 | '23.03.14 ~ '23.03.27 | [야미(이다인)](https://github.com/feb-dain) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level1/javascript-movie-review) | [PR(STEP1)](https://github.com/woowacourse/javascript-movie-review/pull/14) | [PR(STEP2)](https://github.com/woowacourse/javascript-movie-review/pull/81)  |
 
+- [우아한테크코스 한 달 생활기](https://leirbag.tistory.com/134)
+- [우아한테크코스 5기 FE 레벨 1을 마치며...](https://leirbag.tistory.com/141)
+
 ## 레벨 2
 |   | 미션명 | 기간 | 페어 | 저장소 | PR(Step1) | PR(Step2) | PR(Step3) |
 |---|---|---|---|---|---|---|---|
-| 1 | 다시,점심뭐먹지 | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
-| 2 | 페이먼츠 | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
-| 3 | 장바구니 | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
-| 4 | 장바구니(협업) | '23.00.00 ~ '23.00.00 | @ | [백업]() | 
+| 1 | 다시,점심뭐먹지 | '23.04.11 ~ '23.04.17 | [제레미(김민석)](https://github.com/shackstack) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level2/react-lunch) | [PR(STEP1)](https://github.com/woowacourse/react-lunch/pull/1) | [PR(STEP2)](https://github.com/woowacourse/react-lunch/pull/59) |  |
+| 2 | 페이먼츠 | '23.04.18 ~ '23.05.08 | [노아(김홍동)](https://github.com/nlom0218) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level2/react-payments) | [PR(STEP1)](https://github.com/woowacourse/react-payments/pull/187) | [PR(STEP2)](https://github.com/woowacourse/react-payments/pull/254) | [PR(STEP3)](https://github.com/woowacourse/react-payments/pull/291) |  |
+| 3 | 장바구니 | '23.05.09 ~ '23.05.22 | @ | [백업]() | 
+| 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | @ | [백업]() | 
 
 ---
 
