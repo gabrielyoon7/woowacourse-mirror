@@ -39,7 +39,7 @@
 | 1 | 다시,점심뭐먹지 | '23.04.11 ~ '23.04.17 | [제레미(김민석)](https://github.com/shackstack) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level2/react-lunch) | [PR(STEP1)](https://github.com/woowacourse/react-lunch/pull/1) | [PR(STEP2)](https://github.com/woowacourse/react-lunch/pull/59) |  |
 | 2 | 페이먼츠 | '23.04.18 ~ '23.05.08 | [노아(김홍동)](https://github.com/nlom0218) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level2/react-payments) | [PR(STEP1)](https://github.com/woowacourse/react-payments/pull/187) | [PR(STEP2)](https://github.com/woowacourse/react-payments/pull/254) | [PR(STEP3)](https://github.com/woowacourse/react-payments/pull/291) |  |
 | 3 | 장바구니 | '23.05.09 ~ '23.05.22 | [우코(김유권)](https://github.com/ukkodeveloper) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level2/react-shopping-cart) | [PR(STEP1)](https://github.com/woowacourse/react-shopping-cart/pull/161) | [PR(STEP2)](https://github.com/woowacourse/react-shopping-cart/pull/231) |
-| 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | @ | [백업]() | 
+| 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | [파인(임낭경)](https://github.com/nangkyeonglim) | [백업](https://github.com/gabrielyoon7/woowacourse-mirror/tree/main/level2/react-shopping-cart-prod) | [PR(STEP1)](https://github.com/woowacourse/react-shopping-cart-prod/pull/78) | [PR(STEP2)](https://github.com/woowacourse/react-shopping-cart-prod/pull/148) | 
 
 ---
 
